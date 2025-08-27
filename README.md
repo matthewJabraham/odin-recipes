@@ -1,0 +1,3 @@
+During this project I have demonstrated how to use all elements I have learned so far. This includes setting up the html boiler template without using shortcuts, using various heading elements, using paragraph elements, using image elemtns, linking to various pages and creating lists.
+
+It has also allowed me to practice, staging and committing update to my Github repository using the command terminal. 
